@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "jojo!"
+date: 2021-04-01
 ---
 
 jojo!
